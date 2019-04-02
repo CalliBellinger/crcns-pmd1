@@ -78,3 +78,12 @@ print(str(MM_S1_columnnames))
         print('saving yours selected dataframe as "new_dataframe"')
         new_dataframe = selected_column.iloc[row,0]
 ```
+### Files used:
+- crcns-pmd1-ceb5xe\data_and_scripts\source_data\processed
+- Files used as of now (4/2):
+    - MM_S1_processed.mat
+    - MT_S1_processed.mat
+    - MT_S2_proccessed.mat
+    - MT_S3_processed.mat
+- We can either compare monkey MM to monket MT OR
+- Look at monkey MT's learning/memory as MT goes through 3 sessions
