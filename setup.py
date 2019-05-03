@@ -9,7 +9,7 @@ if sys.hexversion < 0x02070000:
 
 # Replace all instances of `comp-neurosci-skeleton` with the name of your project
 setup(
-    name="comp-neurosci-skeleton",
+    name="crcns-pmd1-ceb5xe",
     version="0.0.1",
     package_dir={'comp-neurosci-skeleton': 'src'},
     packages=["comp-neurosci-skeleton"],
