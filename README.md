@@ -46,6 +46,18 @@ Install the project in development mode by running `python setup.py develop`. If
 
 Edit this file to describe your actual project.
 
+
+## For final project please use the data_restructure.py to add in data and put it into the correct format
+## We only used the 
+## This can be accessed by:
+### 1) downloading the CRCNS data older
+### 2) data_and_scripts -> source_data -> processed -> MM_S1_processed (this was the file used)
+
+## use project1.py and variable_creation.py
+## project1.py creates csv file that will be used in R studio
+## we used R studio to create the graphs seen in our report
+
+# THIS IS FOR DATA EXPLORATION ASSIGNMENT 2 PROJECT; NOT FOR FINAL PROJECT
 ## How to access files:
 - load matlab files using scipy.io, loadmat function
 - use function "data_selector" to iterate through the file
